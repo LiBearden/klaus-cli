@@ -1,7 +1,7 @@
 import click
 import requests
 import json
-__author__ = "Elliot Bearden"
+__author__ = "Elliot B."
 
 # Establish authentication constants
 ACCOUNT_ID = input("Please enter your account ID:")
